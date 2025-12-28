@@ -1,0 +1,15 @@
+target/
+bin/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.log
+
+pom.properties
+
+root-context.xml
+spring-security.xml
+Library-servlet.xml
+globals.properties
